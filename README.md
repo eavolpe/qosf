@@ -1,1 +1,3 @@
-# qosf
+# EMILIO VOLPE COSTA: MY ATTEMPT TO THE SECOND TASK QC MENTORSHIP
+important info: This uses the '0.16.1' VERSION OF QISKIT
+it also uses NUMPY 
