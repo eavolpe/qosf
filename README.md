@@ -1,4 +1,4 @@
-# EMILIO VOLPE COSTA: SECOND TASK QC MENTORSHIP
+# SECOND TASK QC MENTORSHIP
 important info: This uses the '0.16.1' VERSION OF QISKIT
 it also uses NUMPY 
 The code is in the file "INTENTO QCOSF.ipynb" which is a Jupyter Notebook.
